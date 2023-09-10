@@ -1,0 +1,104 @@
+<mxfile host="app.diagrams.net" modified="2023-09-09T21:00:01.994Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="FOFGygYMoNEclFB73aBt" version="21.7.2" type="device">
+  <diagram name="Page-1" id="Y-etspDEOShPJL3-Qdnr">
+    <mxGraphModel dx="1225" dy="1108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="H68iP_E5Xu0NuQsgXTQU-29" value="Class Name Siswa" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="90" y="480" width="470" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="H68iP_E5Xu0NuQsgXTQU-30" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="H68iP_E5Xu0NuQsgXTQU-29">
+          <mxGeometry y="30" width="470" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="H68iP_E5Xu0NuQsgXTQU-31" value="Responsibility" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="H68iP_E5Xu0NuQsgXTQU-30">
+          <mxGeometry width="240" height="20" as="geometry">
+            <mxRectangle width="240" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H68iP_E5Xu0NuQsgXTQU-32" value="Colaborator" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;fontStyle=5;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="H68iP_E5Xu0NuQsgXTQU-30">
+          <mxGeometry x="240" width="230" height="20" as="geometry">
+            <mxRectangle width="230" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H68iP_E5Xu0NuQsgXTQU-33" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;html=1;" vertex="1" parent="H68iP_E5Xu0NuQsgXTQU-29">
+          <mxGeometry y="50" width="470" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="H68iP_E5Xu0NuQsgXTQU-34" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="H68iP_E5Xu0NuQsgXTQU-33">
+          <mxGeometry width="240" height="20" as="geometry">
+            <mxRectangle width="240" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H68iP_E5Xu0NuQsgXTQU-35" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="H68iP_E5Xu0NuQsgXTQU-33">
+          <mxGeometry x="240" width="230" height="20" as="geometry">
+            <mxRectangle width="230" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H68iP_E5Xu0NuQsgXTQU-39" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="H68iP_E5Xu0NuQsgXTQU-29">
+          <mxGeometry y="70" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H68iP_E5Xu0NuQsgXTQU-40" value="Mendaftar olimpiade" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;align=left;" vertex="1" parent="H68iP_E5Xu0NuQsgXTQU-39">
+          <mxGeometry width="240" height="30" as="geometry">
+            <mxRectangle width="240" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H68iP_E5Xu0NuQsgXTQU-41" value="Pendafteran olimpiade" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="H68iP_E5Xu0NuQsgXTQU-39">
+          <mxGeometry x="240" width="230" height="30" as="geometry">
+            <mxRectangle width="230" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H68iP_E5Xu0NuQsgXTQU-42" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="H68iP_E5Xu0NuQsgXTQU-29">
+          <mxGeometry y="100" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H68iP_E5Xu0NuQsgXTQU-43" value="Melihat jadwal olimpiade" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;align=left;" vertex="1" parent="H68iP_E5Xu0NuQsgXTQU-42">
+          <mxGeometry width="240" height="30" as="geometry">
+            <mxRectangle width="240" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H68iP_E5Xu0NuQsgXTQU-44" value="jadwal olimpiade" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="H68iP_E5Xu0NuQsgXTQU-42">
+          <mxGeometry x="240" width="230" height="30" as="geometry">
+            <mxRectangle width="230" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H68iP_E5Xu0NuQsgXTQU-45" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="H68iP_E5Xu0NuQsgXTQU-29">
+          <mxGeometry y="130" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H68iP_E5Xu0NuQsgXTQU-46" value="Melihat kisi-kisi olimpiade" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;align=left;" vertex="1" parent="H68iP_E5Xu0NuQsgXTQU-45">
+          <mxGeometry width="240" height="30" as="geometry">
+            <mxRectangle width="240" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H68iP_E5Xu0NuQsgXTQU-47" value="kisi-kisi" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="H68iP_E5Xu0NuQsgXTQU-45">
+          <mxGeometry x="240" width="230" height="30" as="geometry">
+            <mxRectangle width="230" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H68iP_E5Xu0NuQsgXTQU-48" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="H68iP_E5Xu0NuQsgXTQU-29">
+          <mxGeometry y="160" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H68iP_E5Xu0NuQsgXTQU-49" value="Pretest olimpiade" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;align=left;" vertex="1" parent="H68iP_E5Xu0NuQsgXTQU-48">
+          <mxGeometry width="240" height="30" as="geometry">
+            <mxRectangle width="240" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H68iP_E5Xu0NuQsgXTQU-50" value="pretest" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="H68iP_E5Xu0NuQsgXTQU-48">
+          <mxGeometry x="240" width="230" height="30" as="geometry">
+            <mxRectangle width="230" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H68iP_E5Xu0NuQsgXTQU-51" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;html=1;" vertex="1" parent="H68iP_E5Xu0NuQsgXTQU-29">
+          <mxGeometry y="190" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H68iP_E5Xu0NuQsgXTQU-52" value="Melihat nilai pretest olimpiade" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;html=1;whiteSpace=wrap;align=left;" vertex="1" parent="H68iP_E5Xu0NuQsgXTQU-51">
+          <mxGeometry width="240" height="30" as="geometry">
+            <mxRectangle width="240" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H68iP_E5Xu0NuQsgXTQU-53" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;whiteSpace=wrap;" vertex="1" parent="H68iP_E5Xu0NuQsgXTQU-51">
+          <mxGeometry x="240" width="230" height="30" as="geometry">
+            <mxRectangle width="230" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

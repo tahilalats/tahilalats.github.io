@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2023-09-03T13:49:09.270Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="SlQGK2Xva8inKSuNg2q7" version="21.7.0" type="device">
+  <diagram name="Page-1" id="l66UqpR98Eg1zq5w4ehe">
+    <mxGraphModel dx="1232" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fhxKWeGsoSUTHMypQCI6-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fhxKWeGsoSUTHMypQCI6-1" target="fhxKWeGsoSUTHMypQCI6-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fhxKWeGsoSUTHMypQCI6-1" value="&lt;b&gt;Masalah&lt;/b&gt;&lt;br&gt;Belum optimalnya pengelolaan informasi Olimpiade&amp;nbsp; Zahrawi sains e&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="120" width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fhxKWeGsoSUTHMypQCI6-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fhxKWeGsoSUTHMypQCI6-2" target="fhxKWeGsoSUTHMypQCI6-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fhxKWeGsoSUTHMypQCI6-2" value="&lt;b&gt;Pendekatan&lt;/b&gt;&lt;br&gt;Penerapan Responsif Desain Dalam &lt;br&gt;Pembuatan Website Informasi Olimpiade Al-Zahrawi Sains-e dengan metode &lt;i&gt;Extreme Programing&amp;nbsp;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="260" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fhxKWeGsoSUTHMypQCI6-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fhxKWeGsoSUTHMypQCI6-5" target="fhxKWeGsoSUTHMypQCI6-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fhxKWeGsoSUTHMypQCI6-5" value="&lt;b&gt;Perancangan&lt;/b&gt;&lt;br&gt;Membuat perancangan UML yang berupa &lt;i&gt;usecase diagram, activity diagram&lt;/i&gt;, dan class &lt;i&gt;responsifbility colaborator&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="400" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fhxKWeGsoSUTHMypQCI6-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fhxKWeGsoSUTHMypQCI6-6" target="fhxKWeGsoSUTHMypQCI6-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fhxKWeGsoSUTHMypQCI6-6" value="&lt;b&gt;Pengkodean&lt;/b&gt;&lt;br&gt;Pengkodean dilakukan dengan menggunakan Framwork &lt;i&gt;CodeIgniter&lt;/i&gt;, dengan bahasa pemrograman PHP, dan database Menggunakan &lt;i&gt;phpMyAdmin&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="540" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fhxKWeGsoSUTHMypQCI6-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fhxKWeGsoSUTHMypQCI6-7" target="fhxKWeGsoSUTHMypQCI6-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fhxKWeGsoSUTHMypQCI6-7" value="&lt;b&gt;Pengujian&lt;/b&gt;&lt;br&gt;Menggunakan standar kualitas pengujian pengembangan sistem perangkat lunak ISO 2510" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="680" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fhxKWeGsoSUTHMypQCI6-8" value="&lt;b&gt;Hasil&lt;/b&gt;&lt;br&gt;Penerapan Responsif Desain Dalam &lt;br&gt;Pembuatan Website Informasi Olimpiade Al-Zahrawi Sains-e" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="820" width="360" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
